@@ -7,7 +7,7 @@ print(cube(3))
 
 #another import method
 # from mathoperations import operations
-# print(operations,add(10,20))
+# print(operations.add(10,20))
 
 #from .operations import*  (used in present package)
 # import mathoperations.operations
