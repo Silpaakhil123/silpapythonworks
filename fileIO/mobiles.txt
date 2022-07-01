@@ -1,0 +1,4 @@
+a52s,samsung,34000,5g,amoled
+iphone13,apple,95000,5g,amoled
+note11,redmi,17000,4g,led
+note11i,redmi,230000,4g,led
