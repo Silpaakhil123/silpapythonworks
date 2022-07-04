@@ -78,3 +78,4 @@ for transaction in transactions:
         pms[p_method]=amount
 print(pms)
 print(max(pms.items(),key=lambda it:it[1]))
+
